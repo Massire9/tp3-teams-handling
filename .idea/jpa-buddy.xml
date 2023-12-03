@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true" reUseTableSchema="true">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="8a6cc6ee-2f41-43a8-ab3e-04a7e877e11c__team_manager" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/fr/sdv/cnit/university/api" />
+  </component>
+</project>
